@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently exploring WEB3 stack<br>I am looking to collaborate on Django and MERN projects.<br>I love problem solving <br>Ask me about DSA and Web-D
+I am currently exploring WEB3 <br>I am looking to collaborate on Django and MERN projects.<br>I love problem solving <br>Ask me about DSA and Web-D
 
 
 ## 🌐 Socials:
